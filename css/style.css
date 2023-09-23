@@ -2,13 +2,13 @@
 
 @font-face {
     font-family: 'HelpMe';
-    src: url(fonts/helpme.ttf) format('opentype');
+    src: url(../fonts/helpme.ttf) format('opentype');
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'BLOODY';
-    src: url(fonts/bloody.TTF) format('opentype');
+    src: url(../fonts/bloody.TTF) format('opentype');
     font-weight: normal;
 }
 
@@ -19,7 +19,7 @@
 
 body{
     background-color: black;
-    background-image: url(imagens/img-back.jpg);
+    background-image: url(../imagens/img-back.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;
