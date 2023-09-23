@@ -33,46 +33,46 @@ function sorteio() {
     var img = document.getElementById("imagem")
     
     if(num_aleatorio == 1){
-        img.src = 'imagens/enfermeiro-da-noite.jpg'
+        img.src = 'imagens/enfermeiro-da-noite.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }else if(num_aleatorio == 2){
-        img.src = 'imagens/fragmentado.jpg'
+        img.src = 'imagens/fragmentado.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }else if(num_aleatorio == 3){
-        img.src = 'imagens/chamado.jpg'
+        img.src = 'imagens/chamado.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }else if(num_aleatorio == 4){
-        img.src = 'imagens/ficou-pra-tras.jpg'
+        img.src = 'imagens/ficou-pra-tras.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }else if(num_aleatorio == 5){
-        img.src = 'imagens/the-trip.jpg'
+        img.src = 'imagens/the-trip.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }else if(num_aleatorio == 6){
-        img.src = 'imagens/nos.jpg'
+        img.src = 'imagens/nos.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }else if(num_aleatorio == 7){
-        img.src = 'imagens/corra.jpg'
+        img.src = 'imagens/corra.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }else if(num_aleatorio == 8){
-        img.src = 'imagens/poco.jpg'
+        img.src = 'imagens/poco.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }else if(num_aleatorio == 9){
-        img.src = 'imagens/conde.jpg'
+        img.src = 'imagens/conde.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }else if(num_aleatorio == 10){
-        img.src = 'imagens/ilha-medo.jpg'
+        img.src = 'imagens/ilha-medo.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }else if(num_aleatorio == 11){
-        img.src = 'imagens/bruxa.jpg'
+        img.src = 'imagens/bruxa.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }else if(num_aleatorio == 12){
-        img.src = 'imagens/invocacao.jpg'
+        img.src = 'imagens/invocacao.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }else if(num_aleatorio == 13){
-        img.src = 'imagens/tin-tina.jpg'
+        img.src = 'imagens/tin-tina.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }else{
-        img.src = 'imagens/vinganca.jpg'
+        img.src = 'imagens/vinganca.png'
         resultado.innerHTML = filmes[num_aleatorio]
     }
 }
